@@ -1,0 +1,13 @@
+@startuml
+!theme toy
+
+class Pessoa {
+  - string Nome { get; set; }
+  + double Peso
+  + double Altura
+  - double CalcularIMC()
+  + string IndiceIMC()
+  - boolean ValidaValoresEntrada
+}
+
+@enduml

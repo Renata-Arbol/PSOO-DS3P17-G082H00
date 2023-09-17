@@ -1,0 +1,14 @@
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\bin\Debug\net7.0\Imc.exe
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\bin\Debug\net7.0\Imc.deps.json
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\bin\Debug\net7.0\Imc.runtimeconfig.json
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\bin\Debug\net7.0\Imc.dll
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\bin\Debug\net7.0\Imc.pdb
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\obj\Debug\net7.0\Imc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\obj\Debug\net7.0\Imc.AssemblyInfoInputs.cache
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\obj\Debug\net7.0\Imc.AssemblyInfo.cs
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\obj\Debug\net7.0\Imc.csproj.CoreCompileInputs.cache
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\obj\Debug\net7.0\Imc.dll
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\obj\Debug\net7.0\refint\Imc.dll
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\obj\Debug\net7.0\Imc.pdb
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\obj\Debug\net7.0\Imc.genruntimeconfig.cache
+C:\Users\renat\OneDrive\Área de Trabalho\DOTNET_PROJETOS\Imc\obj\Debug\net7.0\ref\Imc.dll
